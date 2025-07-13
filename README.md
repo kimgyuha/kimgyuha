@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 기술 스택 ⚡
 - **Back-end**: Java, Spring Boot, MyBatis
 - **Front-end**: React, JavaScript
-- **DB/Infra**: MySQL, Nginx, Ubuntu VPS, GitHub Actions
+- **DB/Infra**: MySQL, Nginx, Ubuntu VPS
 - **ETC**: REST API, JWT, Kakao 지도 API
 
 ---
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## 프로젝트 💼
 ### 🏠 부동산 매물 플랫폼
 - Spring Boot + React 기반의 매물 관리 시스템
-- Kakao 지도 API, 찜 기능, 조건 검색, 이미지 업로드 등 구현
+- Kakao 지도 API, 조건 검색, 이미지 업로드 등 구현
 
 📌 **백엔드 코드**: [gyupf](https://github.com/kimgyuha/gyupf)  
 📌 **프론트엔드 코드**: [gyupff](https://github.com/kimgyuha/gyupff)
