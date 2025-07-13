@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 대표 프로젝트 🔭
+## 대표 프로젝트 💼
 ### 🏠 부동산 매물 플랫폼
 - Spring Boot + React 기반의 매물 관리 시스템
 - Kakao 지도 API, 찜 기능, 조건 검색, 이미지 업로드 등 구현
